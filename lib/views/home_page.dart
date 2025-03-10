@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("To-Do"),
-        backgroundColor: AppColors.deepPurple,
+        backgroundColor: AppColors.red,
         foregroundColor: Colors.white,
       ),
       body: Column(
